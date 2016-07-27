@@ -4,6 +4,8 @@
 
 document.write("\
 <p>**NOTES**</p>\
+<p>There is no official relationship between this app and UCCS</p>\
+<p>This app is not affiliated with UCCS</p>\
 <p>Last Update: 7-26-2016</p>\
 <p>This is the UCCS Summer 2016 Bus Schedule</p>\
 <p>Services Monday-Friday</p>\

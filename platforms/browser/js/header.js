@@ -4,7 +4,7 @@
 
 document.write("<div class=\"top-bar\">\
 \
-<h1>UCCS Bus Schedule</h1>\
+<h1>Bus Schedule for UCCS</h1>\
 \
 </div>\
 ");
